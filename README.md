@@ -24,3 +24,7 @@ Gerenciador de favoritos (bookmarks) na web, com login e dados salvos por usuár
 Não há dependências para instalar: abra o `index.html` num navegador e faça login.
 
 Ao clicar em **Sair** e voltar para a tela de login, atualize a página (F5) para a sessão reiniciar corretamente.
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
